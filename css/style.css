@@ -483,19 +483,19 @@ button {
   word-wrap: break-word;
 }
 .concuria {
-  background-image: url('../img/concuria.png');
+  background-image: url("../img/concuria.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .figma {
-  background-image: url('../img/figma.png');
+  background-image: url("../img/figma.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .ant {
-  background-image: url('../img/ant.png');
+  background-image: url("../img/ant.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
